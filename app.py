@@ -1,7 +1,7 @@
 """
 SnapLink — URL Shortener REST API
 A clean, production-ready URL shortener built with Flask + SQLite.
-Author: Your Name | License: MIT
+Author: Deborah Lambert | License: MIT
 """
 
 import hashlib
