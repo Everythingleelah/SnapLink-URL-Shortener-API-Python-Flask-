@@ -1,4 +1,4 @@
-# SnapLink — URL Shortener REST API 🔗
+# SnapLink URL Shortener REST API 🔗
 
 A production-ready URL shortener REST API built with **Flask + SQLite**. Clean architecture, rate limiting, click analytics, and full CRUD support.
 
@@ -155,4 +155,4 @@ For production, swap SQLite for PostgreSQL using SQLAlchemy.
 
 ## License
 
-MIT — free to use, fork, and deploy.
+MIT.
